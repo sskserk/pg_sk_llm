@@ -1,0 +1,13 @@
+# Object files
+*.o
+*.ko
+
+g*.lib
+*.a
+
+*.so
+*.so.*
+*.dylib
+
+*.out
+*.app

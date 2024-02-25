@@ -1,0 +1,4 @@
+comment = 'pg_sk_llm'
+default_version = '1.0'
+
+relocatable = true
